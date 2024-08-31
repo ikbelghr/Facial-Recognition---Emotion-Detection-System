@@ -1,0 +1,9 @@
+opencv-python
+opencv-contrib-python
+tensorflow
+face_recognition
+dlib
+pillow
+numpy
+keras
+matplotlib
